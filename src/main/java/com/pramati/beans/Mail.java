@@ -12,4 +12,6 @@ public class Mail {
 	private String author = "";
 	private String mailBody = "NA";
 	private String subject = "";
+	
+	
 }
